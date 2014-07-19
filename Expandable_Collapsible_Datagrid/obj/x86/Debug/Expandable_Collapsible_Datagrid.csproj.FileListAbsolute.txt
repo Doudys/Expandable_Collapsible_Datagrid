@@ -1,0 +1,9 @@
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\bin\Debug\Expandable_Collapsible_Datagrid.exe
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\bin\Debug\Expandable_Collapsible_Datagrid.pdb
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\obj\x86\Debug\Expandable_Collapsible_Datagrid.Form1.resources
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\obj\x86\Debug\Expandable_Collapsible_Datagrid.Properties.Resources.resources
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\obj\x86\Debug\Expandable_Collapsible_Datagrid.exe
+c:\users\vista\documents\visual studio 2010\Projects\Expandable_Collapsible_Datagrid\Expandable_Collapsible_Datagrid\obj\x86\Debug\Expandable_Collapsible_Datagrid.pdb
